@@ -98,9 +98,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 
 ### Estatisticas
 
-<div>
+<div style="display: flex; flex-direction: row; gap: 10px;">
 <img
-style="display: inline-block;"
+align="left"
 alt="Github Stats"
 style="padding-right: 10px;"
 height="200"
@@ -108,9 +108,9 @@ src="https://github-readme-stats.vercel.app/api?username=Math3uso&show_icons=tru
 />
 
 <img
-style="display: inline-block;"
+align="left"
 alt="Github Stats"
-style="padding-right: 10px ;"
+style="padding-right: 10px;"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnologías&layout=compact"
 />
