@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 />
 
 <img
-aligm="left"
+align="left"
 alt="JavaScrip"
 title="JavaScrip"
 style="padding-right: 10px;"
