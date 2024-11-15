@@ -108,7 +108,6 @@ src="https://github-readme-stats.vercel.app/api?username=Math3uso&show_icons=tru
 />
 
 <img
-align="left"
 alt="Github Stats"
 style="padding-right: 10px ;"
 height="200"
