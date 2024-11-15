@@ -76,8 +76,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailw
 
 <img
 align="left"
-alt="Tailwindcss"
-title="Tailwindcss"
+alt="NodeJs"
+title="NodeJs"
 style="padding-right: 10px;"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
@@ -85,8 +85,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img
 align="left"
-alt="Tailwindcss"
-title="Tailwindcss"
+alt="Prisma"
+title="Prisma"
 style="padding-right: 10px;"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
@@ -98,23 +98,22 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 
 ### Estatisticas
 
-<div style="display:flex; flex-direction:column; ">
-  <img
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<img
 align="left"
 alt="Github Stats"
 style="padding-right: 10px;"
 height="200"
+width="470"
 src="https://github-readme-stats.vercel.app/api?username=Math3uso&show_icons=true&theme=radical"
 />
-
-
-
 
 <img
 align="left"
 alt="Github Stats"
 style="padding-right: 10px ;"
 height="200"
+width="470"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnologías&layout=compact"
 />
 </div>
