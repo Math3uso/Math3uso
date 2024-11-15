@@ -104,16 +104,13 @@ align="left"
 alt="Github Stats"
 style="padding-right: 10px;"
 height="200"
-width="470"
 src="https://github-readme-stats.vercel.app/api?username=Math3uso&show_icons=true&theme=radical"
 />
 
 <img
-align="left"
 alt="Github Stats"
 style="padding-right: 10px ;"
 height="200"
-width="470"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnologías&layout=compact"
 />
 </div>
