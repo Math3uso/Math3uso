@@ -98,7 +98,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 
 ### Estatisticas
 
-<div style="display:flex;">
 
 <img
 align="left"
@@ -115,5 +114,3 @@ style="padding-right: 10px ;"
 height="200"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnologías&layout=compact"
 />
-
-</div>
