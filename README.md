@@ -30,7 +30,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
 />
 
 <img
-align="left"
+aligm="left"
 alt="JavaScrip"
 title="JavaScrip"
 style="padding-right: 10px;"
@@ -98,9 +98,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 
 ### Estatisticas
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+<div>
 <img
-align="left"
 alt="Github Stats"
 style="padding-right: 10px;"
 height="200"
