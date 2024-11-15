@@ -101,7 +101,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-ori
 <div style="display: flex; flex-direction: row; gap: 10px;">
 
 <img
-align="left"
 alt="NodeJs"
 title="NodeJs"
 style="padding-right: 10px;"
@@ -110,7 +109,6 @@ src="https://github-readme-stats.vercel.app/api?username=Math3uso&show_icons=tru
 />
   
 <img
-align="left"
 alt="Tailwindcss"
 title="Tailwindcss"
 style="padding-right: 10px;"
