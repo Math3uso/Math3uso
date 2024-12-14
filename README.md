@@ -2,7 +2,7 @@
 
 **`Dev Fullstack`**
 
-Opa! Meu nome é Matheus e sou um desenvolvedor fullstack focado em criar experiências completas e funcionais, focado nas tecnologias como, HTML,CSS,JavaScipt, React, NextJs, TypeScript, Tailwindcss e prisma. Trabalho principalmente no Front, porem com uma certa expêriencia no back-end também.
+Opa! Meu nome é Matheus e sou um desenvolvedor fullstack focado em criar experiências completas e funcionais, utilizo tecnologias como, HTML,CSS,JavaScipt, React, NextJs, TypeScript, Tailwindcss e prisma. Trabalho principalmente no Front, porem com uma certa expêriencia no back-end também.
 
 ---
 ### 👾 Tecnologias
