@@ -2,7 +2,11 @@
 
 **`Dev Fullstack`**
 
-Opa! Meu nome é Matheus e sou um desenvolvedor fullstack focado em criar experiências completas e funcionais, utilizo tecnologias como, HTML,CSS,JavaScipt, React, NextJs, TypeScript, Tailwindcss e prisma. Trabalho principalmente no Front, porem com uma certa expêriencia no back-end também.
+Opa! Meu nome é Matheus e sou um desenvolvedor fullstack com foco atual em back-end. Tenho experiência na construção de aplicações escaláveis, seguindo princípios como SOLID, TDD e Clean Architecture.
+
+Atualmente, trabalho bastante com Node.js, Fastify e Docker, mas também tenho uma boa base no front-end utilizando React, Next.js, TypeScript, TailwindCSS, entre outras tecnologias.
+
+Curto criar soluções completas, pensando tanto na performance quanto na qualidade do código — do banco de dados até a interface.
 
 ---
 ### 👾 Tecnologias
@@ -91,6 +95,34 @@ style="padding-right: 10px;"
 width="30px"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"
 />
+
+<img
+align="left"
+alt="Prisma"
+title="Fastify"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" 
+/>
+
+<img
+align="left"
+alt="Prisma"
+title="Docker"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg"
+/>
+
+<img
+align="left"
+alt="Prisma"
+title="Git"
+style="padding-right: 10px;"
+width="30px"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
 </div>
 
 <br/>
