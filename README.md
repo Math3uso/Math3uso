@@ -145,7 +145,7 @@ alt="Tailwindcss"
 title="Tailwindcss"
 style="padding-right: 10px;"
 height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnologías&layout=compact"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Math3uso&theme=radical&custom_title=Tecnolog%C3%ADas&layout=compact"
 />
 
 </div>
